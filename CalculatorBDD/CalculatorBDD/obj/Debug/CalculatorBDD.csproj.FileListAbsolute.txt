@@ -1,0 +1,15 @@
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\Default.srprofile
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\CalculatorBDD.dll.config
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\CalculatorBDD.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\CalculatorBDD.pdb
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\TechTalk.SpecRun.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\obj\Debug\CalculatorBDD.csprojResolveAssemblyReference.cache
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\obj\Debug\CalculatorBDD.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\obj\Debug\CalculatorBDD.pdb
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\Example.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\nunit.framework.dll
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\Example.pdb
+c:\users\jpeers\documents\visual studio 2015\Projects\CalculatorBDD\CalculatorBDD\bin\Debug\nunit.framework.xml

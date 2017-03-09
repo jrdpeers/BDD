@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorBDD", "CalculatorBDD\CalculatorBDD.csproj", "{2EF410D1-C447-4229-9670-398088A36D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{C4834F20-F851-4DBF-B970-391FEBB60FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF410D1-C447-4229-9670-398088A36D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF410D1-C447-4229-9670-398088A36D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF410D1-C447-4229-9670-398088A36D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF410D1-C447-4229-9670-398088A36D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4834F20-F851-4DBF-B970-391FEBB60FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4834F20-F851-4DBF-B970-391FEBB60FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4834F20-F851-4DBF-B970-391FEBB60FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4834F20-F851-4DBF-B970-391FEBB60FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
